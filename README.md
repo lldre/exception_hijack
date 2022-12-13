@@ -1,4 +1,4 @@
-This repository contains 2 source files for displaying the Exception Hijacking technique explained in this article: https://saza.re/exception_hijacking/
+This repository contains 2 source files for displaying the Exception Hijacking technique explained in this article: [https://saza.re/exception_hijacking/](https://saza.re/posts/exception_hijack/)
 
 The compiled version is there for convenience, if you want to compile the example yourself from source issue the following commands inside the 64-bit visual studio build tools command prompt:
 ```
